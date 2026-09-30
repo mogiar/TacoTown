@@ -1,0 +1,4 @@
+#Sat Jul 30 19:30:18 IDT 2022
+base.0=C\:\\Users\\Almogi\\Desktop\\githubtry\\TacoTown\\TacoTown\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
